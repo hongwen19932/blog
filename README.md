@@ -1,112 +1,35 @@
+## Java基础
+
+- [Java SPI](https://zhaoxiaofa.com/2019/09/04/Java-SPI/)
+
+- [Java序列化—Serializable](https://zhaoxiaofa.com/2019/09/21/Java%E5%BA%8F%E5%88%97%E5%8C%96%E2%80%94Serializable/)
+- [transient关键字](https://zhaoxiaofa.com/2019/09/19/transient%E5%85%B3%E9%94%AE%E5%AD%97/)
+- [ava序列化—Externalizable](https://zhaoxiaofa.com/2019/09/21/Java%E5%BA%8F%E5%88%97%E5%8C%96%E2%80%94Externalizable/)
+
+## Java集合
+
+- [集合中的modCount](https://zhaoxiaofa.com/2019/09/19/%E9%9B%86%E5%90%88%E4%B8%AD%E7%9A%84modCount/)
+
 ## 分布式&微服务
 
 #### 分布式理论
 
 - [CAP定理](https://zhaoxiaofa.com/2019/10/02/CAP%E5%AE%9A%E7%90%86/)
-
 - [BASE定理](https://zhaoxiaofa.com/2019/10/02/BASE%E5%AE%9A%E7%90%86/)
 
-  
+#### 分布式锁
 
-- [分布式一致性-二阶段提交协议](/分布式&微服务/分布式理论/分布式一致性-二阶段提交协议.md)
+- [分布式锁使用场景](https://zhaoxiaofa.com/2019/08/30/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF/)
+- [基于Redis的分布式锁之ReentrantLock](https://zhaoxiaofa.com/2019/08/30/%E5%9F%BA%E4%BA%8ERedis%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E4%B9%8BReentrantLock/)
 
-- [分布式一致性-三阶段提交协议](/分布式&微服务/分布式理论/分布式一致性-三阶段提交协议.md)
-
-- [分布式一致性-hash算法](/分布式&微服务/分布式理论/分布式一致性-hash算法.md)
-
-### [ZooKeeper](/分布式&微服务/ZooKeeper)
-
-- 
+- [基于ZooKeeper的分布式锁](https://zhaoxiaofa.com/2019/08/30/%E5%9F%BA%E4%BA%8EZooKeeper%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/)
 - 
 
-### [Dubbo](/分布式&微服务/Dubbo)
+#### Dubbo
 
-- 
-- 
+- [Dubbo源码解析—阅读源码的方法](https://zhaoxiaofa.com/2019/08/30/Dubbo%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E2%80%94%E9%98%85%E8%AF%BB%E6%BA%90%E7%A0%81%E7%9A%84%E6%96%B9%E6%B3%95/)
 
-### [分布式事务](/分布式&微服务/分布式事务)
+## 并发编程
 
-- 
-- 
-- 
-
-### [分布式锁](/分布式&微服务/分布式锁)
-
-- [分布式锁使用场景](/分布式&微服务/分布式锁/分布式锁使用场景.md)
-- [基于Redis的分布式锁之Reentrant Lock](/分布式&微服务/分布式锁/基于Redis的分布式锁之ReentrantLock.md)
-- [基于Redis的分布式锁之Red Lock](/分布式&微服务/分布式锁/基于Redis的分布式锁之RedLock.md)
-- [基于ZooKeeper的分布式锁](/分布式&微服务/分布式锁/基于ZooKeeper的分布式锁.md)
-
-### [接口幂等](/分布式&微服务/接口幂等)
-
-- 
-- 
-- 
-
-### [消息中间件](/分布式&微服务/消息中间件)
-
-- 
-- 
-- 
-- 
-- 
-
-# [Spring](/Spring)
-
-### [Spring IOC](/Spring/SpringIOC)
-
-- 
-- 
-
-### [Spring AOP](/Spring/SpringAOP)
-
-- 
-- 
-
-### [Spring MVC](/Spring/SpringMVC)
-
-- 
-- 
-
-# [ SpringBoot](/SpringBoot)
-
-- 
-- 
-
-# [JVM](/JVM)
-
-- 
-- 
-- 
-
-# [并发编程](/并发编程)
-
-- 
-- 
-
-# [缓存](/缓存)
-
-- 
-- 
-
-# [设计模式](/设计模式)
-
-- 
-- 
-
-# [数据库](/数据库)
-
-- 
-- 
-
-# [Netty](/Netty)
-
-- 
-- 
-- 
-
-# [扯淡篇](/扯淡篇)
-
-- 
-- 
+- [初识并发编程](https://zhaoxiaofa.com/2019/08/30/初识并发编程/)
 
