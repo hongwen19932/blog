@@ -4,7 +4,7 @@
 
 - [Java序列化—Serializable](https://zhaoxiaofa.com/2019/09/21/Java%E5%BA%8F%E5%88%97%E5%8C%96%E2%80%94Serializable/)
 - [transient关键字](https://zhaoxiaofa.com/2019/09/19/transient%E5%85%B3%E9%94%AE%E5%AD%97/)
-- [ava序列化—Externalizable](https://zhaoxiaofa.com/2019/09/21/Java%E5%BA%8F%E5%88%97%E5%8C%96%E2%80%94Externalizable/)
+- [Java序列化—Externalizable](https://zhaoxiaofa.com/2019/09/21/Java%E5%BA%8F%E5%88%97%E5%8C%96%E2%80%94Externalizable/)
 
 ## Java集合
 
@@ -23,7 +23,6 @@
 - [基于Redis的分布式锁之ReentrantLock](https://zhaoxiaofa.com/2019/08/30/%E5%9F%BA%E4%BA%8ERedis%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E4%B9%8BReentrantLock/)
 
 - [基于ZooKeeper的分布式锁](https://zhaoxiaofa.com/2019/08/30/%E5%9F%BA%E4%BA%8EZooKeeper%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/)
-- 
 
 #### Dubbo
 
@@ -32,4 +31,3 @@
 ## 并发编程
 
 - [初识并发编程](https://zhaoxiaofa.com/2019/08/30/初识并发编程/)
-
