@@ -2,10 +2,16 @@
 
 #### 分布式理论
 
-- [CAP定理]([https://zhaoxiaofa.com/2019/10/02/CAP%E5%AE%9A%E7%90%86/#more](https://zhaoxiaofa.com/2019/10/02/CAP定理/#more))
-- [BASE定理]([https://zhaoxiaofa.com/2019/10/02/BASE%E5%AE%9A%E7%90%86/](https://zhaoxiaofa.com/2019/10/02/BASE定理/))
+- [CAP定理](https://zhaoxiaofa.com/2019/10/02/CAP%E5%AE%9A%E7%90%86/)
+
+- [BASE定理](https://zhaoxiaofa.com/2019/10/02/BASE%E5%AE%9A%E7%90%86/)
+
+  
+
 - [分布式一致性-二阶段提交协议](/分布式&微服务/分布式理论/分布式一致性-二阶段提交协议.md)
+
 - [分布式一致性-三阶段提交协议](/分布式&微服务/分布式理论/分布式一致性-三阶段提交协议.md)
+
 - [分布式一致性-hash算法](/分布式&微服务/分布式理论/分布式一致性-hash算法.md)
 
 ### [ZooKeeper](/分布式&微服务/ZooKeeper)
